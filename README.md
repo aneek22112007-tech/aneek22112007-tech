@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm ANEEK DAS</h1>
 <h3 align="center">Frontend developer + Open Source Contributor building real-world, high-impact projects 🚀</h3>
 
