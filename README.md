@@ -1,48 +1,95 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5fa&height=220&section=header&text=Hi,%20I'm%20Aneek%20Das%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20Building%20real%20things&descAlignY=55&descSize=18" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm ANEEK DAS</h1>
-<h3 align="center">Frontend developer + Open Source Contributor building real-world, high-impact projects 🚀</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aneek22112007-tech&label=Profile%20views&color=0e75b6&style=flat" alt="aneek22112007-tech" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aneek22112007-tech" alt="aneek22112007-tech" /></a> </p>
-
-- 🔭 I’m currently working on [Planora – Smart Event Operating System](https://github.com/Kunal628-hue/planora-smart-event-os-OJT2)
-
-- 🤝 I’m looking for help with [Global Notes Workspace](https://github.com/Coder-s-OG-s/Global_Notes-workspace)
-
-- 👨‍💻 All of my projects are available at [https://github.com/aneek22112007-tech](https://github.com/aneek22112007-tech)
-
-- 📝 I regularly write articles on [https://github.com/aneek22112007-tech](https://github.com/aneek22112007-tech)
-
-- 📫 How to reach me **aneek22112007@gmail.com**
-
-- 📄 Know about my experiences [Actively building experience through real-world projects and open source contributions](Actively building experience through real-world projects and open source contributions)
-
-- ⚡ Fun fact **I enjoy turning ideas into real working products 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Learning+by+shipping%2C+not+by+tutorials;Full-stack+dev+%7C+React+%2B+FastAPI+%2B+MongoDB;Open+source+contributor+%40+Stellar+%26+Antera;Currently+building+Planora+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aneek22112007-tech&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/aneek22112007-tech?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aneek22112007-tech&show_icons=true&locale=en" alt="aneek22112007-tech" /></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aneek22112007-tech&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aneek22112007-tech&" alt="aneek22112007-tech" /></p>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
+## 👀 About Me
 
-<!--
-**aneek22112007-tech/aneek22112007-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year CS student who learns by shipping — I'd rather build a rough working version of something than read another tutorial to the end. Right now I'm deep into full-stack development and starting to explore AI-powered tooling.
 
-Here are some ideas to get you started:
+```yaml
+current_focus: "Planora — Smart Event Operating System"
+learning: ["system design", "AI-powered products"]
+open_to_collab: "Global Notes Workspace"
+open_source: "Stellar & Antera — multiple PRs merged"
+fun_fact: "Never finished a tutorial series, shipped more side projects than I can count"
+reach_me: "aneek22112007@gmail.com"
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,cpp,java,c,react,html,css,nodejs,mongodb,mysql,git,docker,vscode&theme=light&perline=7" alt="tech stack" />
+</p>
+
+<details>
+<summary>📌 Click to see proficiency breakdown</summary>
+<br>
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-Proficient-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-Comfortable-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Comfortable-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-Comfortable-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+![FastAPI](https://img.shields.io/badge/FastAPI-Proficient-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Comfortable-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Database & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-Comfortable-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Daily%20driver-F05032?style=flat-square&logo=git&logoColor=white)
+
+</details>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aneek22112007-tech&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneek22112007-tech&theme=tokyonight&border_radius=10" alt="streak stats" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneek22112007-tech&layout=compact&theme=tokyonight&border_radius=10" alt="top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aneek22112007-tech&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aneek22112007-tech/aneek22112007-tech/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+</p>
+
+> ⚙️ This animates automatically once you add the **Platane/snk** GitHub Action to your profile repo (setup note below).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5fa,100:0e75b6&height=120&section=footer"/>
+
+<p align="center"><i>Building in public, one commit at a time 🚀</i></p>
